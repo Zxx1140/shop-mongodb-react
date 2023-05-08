@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "6457cab6b9a3a590fa909ec5"
+  },
+  "store_id": 1,
+  "store_name": "SHIRT ONE",
+  "store_detail": "Clothes",
+  "store_address": "thailand Bangkok",
+  "store_profile": "https://img.freepik.com/premium-vector/fashion-logo_10250-569.jpg?w=740"
+},{
+  "_id": {
+    "$oid": "6457cabcb9a3a590fa909ec6"
+  },
+  "store_id": 2,
+  "store_name": "SHIRT TWO",
+  "store_detail": "Clothes",
+  "store_address": "thailand Bangkok",
+  "store_profile": "https://img.freepik.com/free-vector/flat-design-clothing-store-logo-design_23-2149496415.jpg?w=826&t=st=1683044954~exp=1683045554~hmac=4a9734a114d13dc83078817e32d56c8d0b36832b07c76594d84467947aba317a"
+}]
